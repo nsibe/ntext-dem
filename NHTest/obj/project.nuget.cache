@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "84YXD0DdDUPjyDvuZIVzk1fbsRXoNMxO/xeSWwCENI7TDNwdgjCx5ohqMJTaiQkzLuMRQYj0efbVxh/rGEUesg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\source\\repos\\NHTest\\NHTest\\NHTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\htmlagilitypack\\1.11.71\\htmlagilitypack.1.11.71.nupkg.sha512"
+  ],
+  "logs": []
+}
